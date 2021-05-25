@@ -1,0 +1,42 @@
+.infogrid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 6rem;
+}
+
+.textruta {
+    margin: 2rem;
+}
+
+.information {
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.rubrik {
+    font-weight: bold;
+}
+
+.infotext {
+    background:#E3D2E2;
+    border-radius: 5px;
+    width: 42.5rem;
+}
+
+.inforuta {
+    border: 2px solid #E3D2E2;
+    border-radius: 5px;
+    display: grid;
+    justify-content: center;
+    height: 30rem;
+}
+
+.imglogga {
+    display: grid;
+    justify-content: center;
+}
+
+.gymnasieinfo {
+    margin-top: -1rem;
+}

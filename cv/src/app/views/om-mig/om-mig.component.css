@@ -1,0 +1,28 @@
+.infogrid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 6rem;
+}
+
+.infotext {
+    background:#E3D2E2;
+    border-radius: 5px;
+    width: 42.5rem;
+}
+
+.textruta {
+    margin: 2rem;
+}
+
+.inforuta {
+    border: 2px solid #E3D2E2;
+    border-radius: 5px;
+    display: grid;
+    justify-content: center;
+    height: 30rem;
+}
+
+.imglogga {
+    display: grid;
+    justify-content: center;
+}
